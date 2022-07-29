@@ -1,5 +1,10 @@
-$ ruby exam.rb 
+$ ruby exam.rb
+
 0 - MEMORY USAGE(MB): 14
+
 1 - MEMORY USAGE(MB): 14
+
 2 - MEMORY USAGE(MB): 14
+
 3 - MEMORY USAGE(MB): 14
+
