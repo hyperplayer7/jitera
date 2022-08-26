@@ -1,5 +1,8 @@
 require 'benchmark'
 
+# Can you think of other, non-algorithmic ways of speeding up this function?
+# better hardware?
+
 def encode(string)
     a = []
     string.split('').each { |c| 
